@@ -17,3 +17,4 @@ A Python-based random string generator driven by the random library, capable of 
 Email: ch3hg1024@gmail.com  
 QQ: 3801008246  
 
+###### Tranlastion provide by DeepSeek-R1
