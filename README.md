@@ -1,1 +1,3 @@
-# Random_string_generater
+# 随机字符串生成器
+## 概述
+基于python开发，利用random库进行随机生成指定长度的字符串，包含数字、英文大小写字母、特殊符号
